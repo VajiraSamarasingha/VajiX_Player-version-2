@@ -1,0 +1,35 @@
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\bin\Debug\VajixPlayer.exe.config
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\bin\Debug\VajixPlayer.exe
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\bin\Debug\VajixPlayer.pdb
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.csproj.AssemblyReference.cache
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.csproj.ResolveComReference.cache
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.Form1.resources
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.Help.resources
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.Properties.Resources.resources
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.csproj.GenerateResource.cache
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.csproj.CoreCompileInputs.cache
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.exe
+C:\Users\vajir\source\repos\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.pdb
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\bin\Debug\VajixPlayer.exe.config
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\bin\Debug\VajixPlayer.exe
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\bin\Debug\VajixPlayer.pdb
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.csproj.AssemblyReference.cache
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.csproj.ResolveComReference.cache
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.Form1.resources
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.Help.resources
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.Properties.Resources.resources
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.Youtube.resources
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.csproj.GenerateResource.cache
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.csproj.CoreCompileInputs.cache
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.exe
+C:\Users\Vajira Samarasingha\Documents\Player\VajiX_Player-main\VajixPlayer\VajixPlayer\obj\Debug\VajixPlayer.pdb
